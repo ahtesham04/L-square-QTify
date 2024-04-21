@@ -1,0 +1,16 @@
+.btn{
+    background-color: #121212 !important;
+    color: #34c94b !important;
+    width: 170px !important;
+    height: 47px !important;
+    border: 1px solid #121212 !important;
+    border-radius: 12px !important;
+    padding: 10px 16px !important;
+    font-family: Poppins !important;
+font-size: 15px !important;
+font-weight: 600 !important;
+line-height: 27px!important;
+letter-spacing: 0.25px !important;
+text-align: center !important;
+
+}
